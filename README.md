@@ -1,11 +1,6 @@
 # Soft166 - Website
 This is my Github page for my SOFT166 coursework.
 
-##### Project Managament board
-Trello: [https://trello.com/b/dLYx4oXw/soft166](https://trello.com/b/dLYx4oXw/soft166)
-
-##### YouTube Video of Site in action
-YouTube Video: [https://youtu.be/vqmh70PNH-Q](https://youtu.be/vqmh70PNH-Q)
 
 #### Application description
 The aim behind this work was to create a functioning website that had a dedicated page for a password strength tester, this application was then to be linked to smart lights that would use third party application program interface to interact with said program. 
