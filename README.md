@@ -19,13 +19,9 @@ These 5 Password requirements are:
 
 #### Screenshots of Site
 
-![alt text](https://github.com/Matt-Caine/Soft166/blob/Matt-Caine-V7/Screenshots/Index.png "Index Page")
 
 ![alt text](https://github.com/Matt-Caine/Soft166/blob/Matt-Caine-V7/Screenshots/PasswordPage.png "Password Page")
 
-![alt text](https://github.com/Matt-Caine/Soft166/blob/Matt-Caine-V7/Screenshots/KeyPage.png "Lights Key Page")
-
-![alt text](https://github.com/Matt-Caine/Soft166/blob/Matt-Caine-V7/Screenshots/Aboutpage.png "About Page")
 
 
 
